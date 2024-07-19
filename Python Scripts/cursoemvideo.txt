@@ -1,0 +1,6 @@
+Angelo;19
+Kamilla;19
+Gabriel;15
+Andressa;41
+Thiago;17
+Gabriel;15
